@@ -1,0 +1,16 @@
+API REST
+Métodos comuns
+- GET - Buscar informação
+- POST - Inserir informação
+- PUT - Alterar Informações
+- DELETE - Deletar informação
+- PATCH - Alterar PONTUAL de uma informação
+
+Tipos de parâmetros
+- BODY - {}
+- QUERY PARAMS - http://localhots:8085/users?nome=Daniele&idade=35
+- Parâmetros de rotas - http://localhots:8085/users/{nome}/{idade}
+
+ORM -> Object Relational Mapper
+
+Repositório (Repository) -> Interagir com o banco de dados.
